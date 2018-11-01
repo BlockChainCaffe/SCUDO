@@ -17,22 +17,28 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |Progetto pieno di buzz-words |:shit:|
 |   |Progetto molto complicato |:shit:|
 |**Azienda**             | | |
-|                        |Non c'è nessuna azienda, è un progetto indipendente           |:+1:|
-|                        |C'è un'azienda che propone il coin                            |:shit::shit::shit:|
-|                        |L'azienda ha sede in un paradiso fiscale                      |:shit:|
-|                        |L'azienda ha solo una casella postale                         |:shit:|
-|                        |L'indirizzo dell'azienda è falso/non disponibile              |:shit::shit::shit:|
-|                        |
+|   |Non c'è nessuna azienda, è un progetto indipendente           |:+1:|
+|   |C'è un'azienda che propone il coin                            |:shit::shit::shit:|
+|   |L'azienda ha sede in un paradiso fiscale                      |:shit:|
+|   |L'azienda ha solo una casella postale                         |:shit:|
+|   |L'indirizzo dell'azienda è falso/non disponibile              |:shit::shit::shit:|
 |**Comunicazione**       | | |
 |   |Molta pubblicità                                              |:shit:|
+|   |Presentata in sfarzosi convegni, hotel etc. |:shit::shit::shit:|
 |**Documentazione**      | | |
+|   |White paper semplice in bianco e nero con formule e dimostrazioni |:+1:|
+|   |Parte parlando di **bitcoin**... ma non è bitcoin|:shit::shit:|
+|   |Molto sfarzosa, colorata ma con poco contenuto informativo |:shit:|
+|   |Raffigura Yacht, lo skyline di Dubay, Lambo e gnocca |:shit::shit:|
+|   |Raffigura una **moneta fisica**... che non esiste ! |:shit::shit:|
 |**Adesione**            | | |
 |   |Libero acquisto su un qualsiasi exchange nella quantità desiderata |:+1:|
-|   |Acquisto di ***Pacchetti*** di monete                              |:shit:|
+|   |Acquisto di ***Pacchetti*** di monete                              |:shit::shit::shit:|
 |   |Acquisto possibile presso la sola azienda emittente                |:shit::shit:|
+|   |...ma quello che paghi sono *corsi di formazione*  |:shit::shit:|
 |   |Referral link per l'acquisto                                       |:shit:|
 |   |**MLM**: Multi Level Marketing (senza prodotti, si acquista il coin)  |:shit::shit::shit:|
-|   |Presentata in sfarzosi convegni, hotel etc. |:shit::shit::shit:|
+|   |Non si può fare minig o avere un nodo proprio indipendente |:shit::shit:|
 |**Valore e prezzo**              | | |
 |   |Esistono diversi exchange |:+1:|
 |   |Il prezzo è fatto dal mercato|:+1:|
@@ -47,4 +53,4 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |Si usa solo su un back-office del progetto |:shit::shit::shit:|
 |   |Esiste **un solo wallet**  |:shit::shit::shit:|
 |   |Non c'è traccia della manutenzione del codice |:shit:|
-|   
+|   |E' la *"Blockchain X.0"* (con X>2) |:shit:|
