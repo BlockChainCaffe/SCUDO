@@ -22,6 +22,10 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |L'azienda ha sede in un paradiso fiscale                      |:shit:|
 |   |L'azienda ha solo una casella postale                         |:shit:|
 |   |L'indirizzo dell'azienda è falso/non disponibile              |:shit::shit::shit:|
+|   |Membri molto altisonanti... ma sconosciuti |:shit:|
+|   |Membri non su linkedin o senza profili social utili|:shit:|
+|   |Membri con profili social falsi/anonimi |:shit::shit:|
+|   |Sponsorizzata da funzionari o politici vari |:shit:|
 |**Comunicazione**       | | |
 |   |Molta pubblicità                                              |:shit:|
 |   |Presentata in sfarzosi convegni, hotel etc. |:shit::shit::shit:|
