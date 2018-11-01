@@ -8,26 +8,43 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 | Area | Elemento  | Punti |
 |--------------------|------------------------------------------------------------------|-------------------------|
 |**Progetto**            | | |
-|                        |Affermazioni insostenibili o irreali                          | :shit::shit::shit: |  
-|                        |Promesse di arricchimento palesi o velate                     | :shit::shit::shit: | 
-|                        |Finalità d'uso o obiettivi etico/sociali                      |:shit:|  
-|                        |Molta pubblicità                                              |:shit:|
+|   |Non c'è un progetto, è solo una coin |:+1:|
+|   |Il progetto c'è e ha senso economico e pratico |:+1:|
+|   |Affermazioni insostenibili o irreali                          | :shit::shit::shit: |  
+|   |Promesse di arricchimento palesi o velate                     | :shit::shit::shit: | 
+|   |Finalità d'uso o obiettivi etico/sociali                      |:shit:|
+|   |Progetto fumoso |:shit:|
+|   |Progetto pieno di buzz-words |:shit:|
+|   |Progetto molto complicato |:shit:|
 |**Azienda**             | | |
 |                        |Non c'è nessuna azienda, è un progetto indipendente           |:+1:|
-|                        |C'è un'azienda che propone il coin                            |
-|                        |L'azienda ha sede in un paradiso fiscale                      |
-|                        |L'azienda ha solo una casella postale                         |
-|                        |L'indirizzo dell'azienda è falso/non disponibile              |
+|                        |C'è un'azienda che propone il coin                            |:shit::shit::shit:|
+|                        |L'azienda ha sede in un paradiso fiscale                      |:shit:|
+|                        |L'azienda ha solo una casella postale                         |:shit:|
+|                        |L'indirizzo dell'azienda è falso/non disponibile              |:shit::shit::shit:|
 |                        |
-
-
 |**Comunicazione**       | | |
+|   |Molta pubblicità                                              |:shit:|
 |**Documentazione**      | | |
 |**Adesione**            | | |
-|                        |Libero acquisto su un qualsiasi exchange nella quantità desiderata |:+1:|
-|                        |Acquisto di ***Pacchetti*** di monete                              |:shit:|
-|                        |Acquisto possibile presso la sola azienda emittente                |:shit::shit:|
-|                        |Referral link per l'acquisto                                       |:shit:|
-|                        |**MLM**: Multi Level Marketing (senza prodotti, si acquista il coin)  |:shit::shit::shit:|
-
-|**Uso**                  | | |
+|   |Libero acquisto su un qualsiasi exchange nella quantità desiderata |:+1:|
+|   |Acquisto di ***Pacchetti*** di monete                              |:shit:|
+|   |Acquisto possibile presso la sola azienda emittente                |:shit::shit:|
+|   |Referral link per l'acquisto                                       |:shit:|
+|   |**MLM**: Multi Level Marketing (senza prodotti, si acquista il coin)  |:shit::shit::shit:|
+|   |Presentata in sfarzosi convegni, hotel etc. |:shit::shit::shit:|
+|**Valore e prezzo**              | | |
+|   |Esistono diversi exchange |:+1:|
+|   |Il prezzo è fatto dal mercato|:+1:|
+|   |Il prezzo è determinato da un algoritmo |:shit::shit::shit:|
+|   |Ha un sottostante:  | |
+|   |... ma il prezzo non dipende dal sottostante |:shit::shit:|
+|   |... ma il sottostante non si capisce cosa sia |:shit:|
+|   |... ma il sottostante non si capisce quanto valga |:shit:|
+|**Software**                 | | |
+|   |Esistono diversi siti/app/wallet open source indipendenti |:+1:|
+|   |Il codice è disponibile e facilmente trovabile/consultabile |:+1:|
+|   |Si usa solo su un back-office del progetto |:shit::shit::shit:|
+|   |Esiste **un solo wallet**  |:shit::shit::shit:|
+|   |Non c'è traccia della manutenzione del codice |:shit:|
+|   
