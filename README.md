@@ -29,6 +29,8 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |**Comunicazione**       | | |
 |   |Molta pubblicità                                              |:shit:|
 |   |Presentata in sfarzosi convegni, hotel etc. |:shit::shit::shit:|
+|   |Toni entusiasti e trionfalistici |:shit::shit:|
+|   |Le domande sono poco gradite, malviste o vietate |:shit::shit::shit:|
 |**Documentazione**      | | |
 |   |White paper semplice in bianco e nero con formule e dimostrazioni |:+1:|
 |   |Parte parlando di **bitcoin**... ma non è bitcoin|:shit::shit:|
