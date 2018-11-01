@@ -58,4 +58,5 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |Esiste **un solo wallet**  |:shit::shit::shit:|
 |   |Non c'è traccia della manutenzione del codice |:shit:|
 |   |E' la *"Blockchain X.0"* (con X>2) |:shit:|
-|   |usa Proff of <qualcosa di insensato> |:shit::shit:|
+|   |usa Proff of "qualcosa di insensato" |:shit::shit:|
+|   |Gira su blockchain privata |:shit::shit::shit::shit:|
